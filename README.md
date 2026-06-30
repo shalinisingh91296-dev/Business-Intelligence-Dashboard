@@ -17,6 +17,7 @@ Enhanced the report with interactive features such as synchronized slicers, dril
 
 The dashboard enables business stakeholders to monitor overall performance, identify high-value customer segments, optimize product strategies, evaluate promotional effectiveness, and make data-driven decisions to improve revenue growth and customer retention.
 
+## Business Questions 
 * Which product categories contribute the most revenue?
 * Which regions are driving or losing sales?
 * Who are our most valuable customers?
