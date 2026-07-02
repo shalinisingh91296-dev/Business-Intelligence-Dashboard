@@ -1,18 +1,18 @@
 
--- Total Revenue --
+## -- Total Revenue --
 select  round(sum(o1.total_price),0)
 from order_items o1 join orders o2 on 
 o1.order_id = o2.order_id
 join products p on
 o1.product_id = p.product_id;
 
--- Cumulative Revenue -- 
+## -- Cumulative Revenue -- 
 select p.payment_amount,o.order_date,
 round(sum(p.payment_amount)over(order by o.order_date),0) as cum_sum
 from payments as p join orders as o
 on p.order_id = o.order_id;
 
--- % Contribution to the Revenue by each customer --
+## -- % Contribution to the Revenue by each customer --
 with cte as (
 select c.customer_id as customerid, round(sum(p.payment_amount),0) as c_revenue
 from customers c join orders o
@@ -24,7 +24,7 @@ group by c.customer_id order by c.customer_id,round(sum(p.payment_amount),0) des
 select customerid, round(c_revenue*100/sum(c_revenue)over(),1) as pct
 from cte;
 
--- % Contribution to the Revenue by each product category --
+## -- % Contribution to the Revenue by each product category --
 with cte as (
 select p.category as category, round(sum(o1.quantity*o1.unit_price),2) as p_revenue
 from products as p join order_items as o1
@@ -34,7 +34,7 @@ group by p.category order by  p.category, round(sum(o1.quantity*o1.unit_price),2
 select category, p_revenue*100/sum(p_revenue)over() as pct
 from cte;
 
--- Recency, Frequncy, Monetory by Each Customer --
+## -- Recency, Frequncy, Monetory by Each Customer --
 Select c.customer_id, datediff(curdate(),max(o1.order_date)) as Recency,
 count(distinct(o1.order_id)) as Frequncy,
 round(sum(o2.total_price),2) as Monetory
@@ -44,12 +44,12 @@ join order_items o2
 on o1.order_id = o2.order_id
 group by c.customer_id order by c.customer_id;
 
--- Revenue by Payment Method --
+## -- Revenue by Payment Method --
 select payment_method, round(sum(payment_amount),2) as p_revenue
 from payments as p
 group by payment_method order by round(sum(payment_amount),2) desc;
 
--- Revenue by Country --
+## -- Revenue by Country --
 Select c.country as country , round(sum(o2.total_price),2) as revenue
 from customers c join orders o1
 on c.customer_id = o1.customer_id
@@ -57,8 +57,7 @@ join order_items o2
 on o1.order_id = o2.order_id
 group by c.country order by round(sum(o2.total_price),2) desc;
 
--- Revenue by Year --
-
+## -- Revenue by Year --
 select year(o1.order_date) as year, round(sum(o2.total_price),2) as revenue_year
 from orders o1 join order_items o2
 on o1.order_id = o2.order_id
