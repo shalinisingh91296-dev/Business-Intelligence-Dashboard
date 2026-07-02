@@ -12,7 +12,7 @@ round(sum(p.payment_amount)over(order by o.order_date),0) as cum_sum
 from payments as p join orders as o
 on p.order_id = o.order_id;
 
--- % Contribution to the Revenue by each product customer --
+-- % Contribution to the Revenue by each customer --
 with cte as (
 select c.customer_id as customerid, round(sum(p.payment_amount),0) as c_revenue
 from customers c join orders o
