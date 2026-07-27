@@ -1,6 +1,6 @@
 # ShopSphere Retail – Executive E-Commerce Business Intelligence Dashboard
 
-Developed an end-to-end Power BI dashboard for a fictional e-commerce company, **ShopSphere Retail**, to provide actionable business insights across sales, customers, products, and regional performance. The project followed a complete Business Intelligence lifecycle, starting with data ingestion from a CSV dataset containing 10,000 transaction records.
+Developed an end-to-end Power BI dashboard for an e-commerce company, **ShopSphere Retail**, to provide actionable business insights across sales, customers, products, and regional performance. The project followed a complete Business Intelligence lifecycle, starting with data ingestion from a CSV dataset containing 10,000 transaction records.
 
 Performed data cleaning and transformation using **Power Query**, including data type validation, calculated fields, and data quality checks. Designed a **Star Schema** by creating a centralized fact table and multiple dimension tables (Date, Customer, Product, Region, and Payment Method) to ensure efficient data modeling and optimized report performance.
 
