@@ -1,0 +1,1001 @@
+payment_id,order_id,payment_method,payment_amount,payment_status
+1,1,Cash on Delivery,15059.81,Paid
+2,2,Net Banking,10410.18,Failed
+3,3,UPI,3113.52,Paid
+4,4,Debit Card,5536.98,Paid
+5,5,Cash on Delivery,2469.32,Pending
+6,6,Cash on Delivery,4766.93,Pending
+7,7,Credit Card,5592.57,Failed
+8,8,Net Banking,1660.94,Failed
+9,9,Debit Card,576.52,Failed
+10,10,Debit Card,7718.58,Failed
+11,11,Cash on Delivery,4659.82,Failed
+12,12,Credit Card,18250.89,Failed
+13,13,UPI,11338.17,Failed
+14,14,UPI,2377.71,Paid
+15,15,UPI,4328.8,Paid
+16,16,Credit Card,785.78,Pending
+17,17,Credit Card,12691.1,Paid
+18,18,Cash on Delivery,7379.56,Failed
+19,19,Credit Card,12195.76,Failed
+20,20,Debit Card,6278.13,Pending
+21,21,Credit Card,68.24,Failed
+22,22,Cash on Delivery,2229.24,Pending
+23,23,UPI,589.35,Failed
+24,24,Debit Card,3224.04,Pending
+25,25,Net Banking,7590.61,Failed
+26,26,Credit Card,3022.46,Pending
+27,27,Net Banking,6300.76,Paid
+28,28,Debit Card,5864.48,Failed
+29,29,Net Banking,5705.63,Failed
+30,30,Credit Card,97.52,Failed
+31,31,Credit Card,9585.74,Paid
+32,32,Debit Card,5217.94,Failed
+33,33,Credit Card,1154.24,Failed
+34,34,Debit Card,6922.6,Failed
+35,35,Cash on Delivery,8722.39,Failed
+36,36,Credit Card,7261.73,Pending
+37,37,Credit Card,9453.56,Pending
+38,38,Net Banking,1671.93,Pending
+39,39,UPI,6272.79,Failed
+40,40,Credit Card,13927.39,Paid
+41,41,Debit Card,5285.52,Paid
+42,42,Cash on Delivery,5987.22,Paid
+43,43,Cash on Delivery,1825.05,Pending
+44,44,UPI,7295.4,Pending
+45,45,UPI,11593.86,Pending
+46,46,Debit Card,10406.21,Pending
+47,47,Credit Card,4332.36,Paid
+48,48,Debit Card,3776.75,Paid
+49,49,UPI,14941.76,Pending
+50,50,Credit Card,13529.03,Pending
+51,51,UPI,10514.42,Paid
+52,52,Credit Card,5400.69,Failed
+53,53,Debit Card,6288.67,Failed
+54,54,Net Banking,11227.6,Paid
+55,55,Cash on Delivery,3399.45,Pending
+56,56,Cash on Delivery,9946.93,Pending
+57,57,Cash on Delivery,11523.56,Pending
+58,58,Cash on Delivery,3624.06,Paid
+59,59,UPI,3770.88,Paid
+60,60,Debit Card,15068.0,Pending
+61,61,Credit Card,493.19,Pending
+62,62,Cash on Delivery,4349.31,Failed
+63,63,Cash on Delivery,14455.91,Pending
+64,64,Net Banking,12851.42,Failed
+65,65,Credit Card,5575.62,Pending
+66,66,UPI,5724.27,Failed
+67,67,Cash on Delivery,870.1,Failed
+68,68,Credit Card,14247.6,Failed
+69,69,Credit Card,6442.11,Paid
+70,70,Net Banking,3919.6,Failed
+71,71,Debit Card,3050.28,Paid
+72,72,Debit Card,11261.44,Failed
+73,73,Credit Card,1128.34,Failed
+74,74,Cash on Delivery,8132.88,Pending
+75,75,Net Banking,5406.64,Paid
+76,76,Net Banking,5529.09,Pending
+77,77,Net Banking,13443.88,Failed
+78,78,Debit Card,3028.82,Pending
+79,79,Net Banking,1128.34,Failed
+80,80,Credit Card,7384.89,Pending
+81,81,UPI,12071.57,Pending
+82,82,Net Banking,4028.25,Pending
+83,83,UPI,4159.95,Failed
+84,84,UPI,3896.94,Paid
+85,85,Credit Card,10430.72,Paid
+86,86,Credit Card,1988.68,Failed
+87,87,UPI,2628.64,Paid
+88,88,Debit Card,14160.2,Failed
+89,89,Net Banking,1801.35,Paid
+90,90,Net Banking,1917.62,Failed
+91,91,Cash on Delivery,519.45,Failed
+92,92,Credit Card,1079.04,Pending
+93,93,Net Banking,3471.5,Failed
+94,94,Cash on Delivery,15964.65,Failed
+95,95,UPI,547.2,Pending
+96,96,UPI,7503.7,Failed
+97,97,Credit Card,317.56,Failed
+98,98,UPI,17812.29,Failed
+99,99,Net Banking,4523.92,Failed
+100,100,Cash on Delivery,6466.3,Failed
+101,101,Debit Card,1622.44,Paid
+102,102,Cash on Delivery,7938.75,Failed
+103,103,Cash on Delivery,12013.54,Paid
+104,104,Cash on Delivery,3900.76,Pending
+105,105,Credit Card,2837.2,Failed
+106,106,Cash on Delivery,1033.6,Paid
+107,107,Credit Card,9866.51,Paid
+108,108,Debit Card,186.48,Paid
+109,109,Cash on Delivery,3432.55,Pending
+110,110,UPI,3398.66,Pending
+111,111,Net Banking,1757.47,Pending
+112,112,Credit Card,6827.57,Pending
+113,113,UPI,7159.08,Pending
+114,114,Credit Card,1346.04,Failed
+115,115,UPI,16360.31,Pending
+116,116,Debit Card,3534.76,Pending
+117,117,Debit Card,1426.61,Pending
+118,118,Credit Card,2370.16,Paid
+119,119,Cash on Delivery,3816.39,Pending
+120,120,Credit Card,10995.12,Pending
+121,121,Cash on Delivery,3783.32,Paid
+122,122,Net Banking,4417.51,Failed
+123,123,Net Banking,6016.33,Paid
+124,124,Debit Card,5183.3,Paid
+125,125,Cash on Delivery,3316.56,Pending
+126,126,Debit Card,9653.58,Pending
+127,127,Debit Card,2409.2,Paid
+128,128,UPI,2191.11,Pending
+129,129,Credit Card,3058.7,Pending
+130,130,Debit Card,12776.54,Paid
+131,131,UPI,16103.03,Pending
+132,132,Net Banking,5273.71,Paid
+133,133,UPI,11344.77,Failed
+134,134,Cash on Delivery,2491.41,Paid
+135,135,Net Banking,12630.95,Paid
+136,136,Net Banking,1082.58,Paid
+137,137,Credit Card,1472.53,Failed
+138,138,Debit Card,7652.12,Paid
+139,139,Net Banking,5371.0,Pending
+140,140,Debit Card,5373.81,Pending
+141,141,Debit Card,1992.79,Pending
+142,142,Credit Card,10498.89,Failed
+143,143,Debit Card,551.97,Paid
+144,144,Net Banking,2849.4,Failed
+145,145,Net Banking,6816.68,Paid
+146,146,Credit Card,7615.93,Pending
+147,147,Net Banking,9845.78,Paid
+148,148,Debit Card,9572.76,Failed
+149,149,Credit Card,8951.6,Paid
+150,150,Credit Card,15685.25,Pending
+151,151,UPI,6772.39,Paid
+152,152,Net Banking,3816.39,Pending
+153,153,Debit Card,17858.9,Paid
+154,154,Credit Card,7863.96,Failed
+155,155,Credit Card,9329.86,Pending
+156,156,Debit Card,541.29,Paid
+157,157,Net Banking,1874.94,Pending
+158,158,Cash on Delivery,7156.9,Pending
+159,159,Credit Card,1984.2,Pending
+160,160,Net Banking,5252.04,Failed
+161,161,Net Banking,3835.24,Paid
+162,162,UPI,14622.38,Paid
+163,163,UPI,14207.48,Paid
+164,164,Credit Card,10824.63,Pending
+165,165,Cash on Delivery,2035.43,Paid
+166,166,Credit Card,7047.86,Paid
+167,167,Debit Card,10671.22,Pending
+168,168,Cash on Delivery,11356.52,Failed
+169,169,UPI,12955.77,Pending
+170,170,Net Banking,3461.3,Pending
+171,171,Debit Card,7534.86,Pending
+172,172,UPI,1352.81,Pending
+173,173,Credit Card,2314.41,Failed
+174,174,Credit Card,8158.68,Failed
+175,175,Cash on Delivery,3096.27,Paid
+176,176,Credit Card,3312.36,Pending
+177,177,UPI,5416.98,Pending
+178,178,Credit Card,11236.16,Failed
+179,179,Net Banking,10579.26,Paid
+180,180,Net Banking,10134.55,Failed
+181,181,UPI,1915.28,Failed
+182,182,Cash on Delivery,8068.97,Failed
+183,183,Credit Card,16145.16,Paid
+184,184,Cash on Delivery,7712.46,Failed
+185,185,Credit Card,155.79,Paid
+186,186,UPI,9652.0,Paid
+187,187,Net Banking,7796.31,Paid
+188,188,Debit Card,15437.68,Paid
+189,189,Credit Card,15989.12,Pending
+190,190,UPI,5244.72,Failed
+191,191,Credit Card,2456.28,Paid
+192,192,UPI,5436.17,Pending
+193,193,Net Banking,10516.58,Failed
+194,194,Debit Card,10159.7,Failed
+195,195,Credit Card,3077.16,Paid
+196,196,Debit Card,3911.39,Pending
+197,197,Net Banking,6520.75,Paid
+198,198,Cash on Delivery,5575.62,Pending
+199,199,UPI,13843.88,Pending
+200,200,UPI,950.62,Pending
+201,201,Debit Card,10701.29,Pending
+202,202,Debit Card,9589.68,Failed
+203,203,Net Banking,9214.59,Paid
+204,204,Debit Card,2750.35,Paid
+205,205,Credit Card,15352.71,Paid
+206,206,UPI,5204.52,Paid
+207,207,Debit Card,23051.94,Paid
+208,208,Debit Card,3882.2,Pending
+209,209,Debit Card,3464.69,Failed
+210,210,UPI,16133.31,Pending
+211,211,Credit Card,8383.35,Pending
+212,212,Net Banking,10858.76,Pending
+213,213,Debit Card,12541.75,Pending
+214,214,UPI,15027.83,Paid
+215,215,UPI,2229.24,Failed
+216,216,Cash on Delivery,8542.68,Paid
+217,217,Debit Card,4459.48,Pending
+218,218,Debit Card,4576.13,Failed
+219,219,Cash on Delivery,4760.4,Failed
+220,220,Cash on Delivery,24779.79,Pending
+221,221,Credit Card,7758.78,Failed
+222,222,Debit Card,832.57,Paid
+223,223,Cash on Delivery,14152.29,Pending
+224,224,UPI,766.06,Paid
+225,225,Credit Card,16002.53,Failed
+226,226,Cash on Delivery,3244.88,Paid
+227,227,UPI,643.68,Failed
+228,228,Credit Card,9134.92,Paid
+229,229,Net Banking,15609.8,Paid
+230,230,UPI,9285.51,Failed
+231,231,Cash on Delivery,93.24,Pending
+232,232,Debit Card,103.72,Failed
+233,233,Net Banking,6515.44,Paid
+234,234,Cash on Delivery,1930.09,Failed
+235,235,Credit Card,5469.67,Paid
+236,236,Credit Card,18791.4,Paid
+237,237,Net Banking,8882.72,Failed
+238,238,Debit Card,6965.14,Failed
+239,239,Debit Card,10761.84,Pending
+240,240,Net Banking,3501.36,Failed
+241,241,UPI,8411.72,Pending
+242,242,UPI,1187.74,Pending
+243,243,Net Banking,11811.0,Failed
+244,244,Cash on Delivery,9064.83,Paid
+245,245,Credit Card,16803.67,Failed
+246,246,Debit Card,407.15,Failed
+247,247,Credit Card,1622.44,Pending
+248,248,UPI,14566.03,Failed
+249,249,UPI,9796.8,Failed
+250,250,Credit Card,3058.7,Failed
+251,251,Net Banking,5003.62,Pending
+252,252,Cash on Delivery,5563.35,Failed
+253,253,UPI,11960.7,Paid
+254,254,Net Banking,7191.54,Failed
+255,255,Net Banking,11877.25,Failed
+256,256,Net Banking,9556.68,Pending
+257,257,Cash on Delivery,2731.61,Pending
+258,258,Credit Card,14338.68,Paid
+259,259,UPI,10377.03,Paid
+260,260,Cash on Delivery,1344.89,Paid
+261,261,Cash on Delivery,7151.84,Failed
+262,262,UPI,9393.59,Failed
+263,263,Net Banking,9915.6,Failed
+264,264,Cash on Delivery,8752.91,Pending
+265,265,Debit Card,1613.25,Paid
+266,266,Debit Card,11215.75,Failed
+267,267,Debit Card,7631.76,Failed
+268,268,UPI,12961.9,Paid
+269,269,Credit Card,13374.56,Paid
+270,270,Cash on Delivery,1299.74,Paid
+271,271,Debit Card,9435.95,Paid
+272,272,Credit Card,435.72,Pending
+273,273,Credit Card,16874.17,Pending
+274,274,UPI,5570.48,Failed
+275,275,Credit Card,2282.37,Paid
+276,276,Cash on Delivery,7723.03,Paid
+277,277,UPI,1317.63,Failed
+278,278,Debit Card,8741.13,Failed
+279,279,Cash on Delivery,248.57,Pending
+280,280,Debit Card,14603.94,Paid
+281,281,Cash on Delivery,8253.98,Pending
+282,282,Credit Card,10200.27,Pending
+283,283,Cash on Delivery,562.96,Pending
+284,284,Debit Card,11171.25,Paid
+285,285,UPI,4912.36,Pending
+286,286,Credit Card,1908.09,Failed
+287,287,Debit Card,15266.83,Paid
+288,288,Debit Card,8230.33,Paid
+289,289,Cash on Delivery,9725.89,Failed
+290,290,Cash on Delivery,6269.33,Paid
+291,291,Net Banking,9285.07,Failed
+292,292,Debit Card,9782.35,Failed
+293,293,Cash on Delivery,2805.56,Failed
+294,294,Credit Card,196.45,Pending
+295,295,Credit Card,26773.0,Pending
+296,296,Debit Card,6412.64,Paid
+297,297,Cash on Delivery,12731.04,Failed
+298,298,Net Banking,3204.66,Paid
+299,299,Net Banking,666.92,Paid
+300,300,Net Banking,6162.88,Pending
+301,301,Credit Card,33.42,Pending
+302,302,UPI,11850.79,Pending
+303,303,Credit Card,14617.74,Pending
+304,304,Credit Card,4752.0,Paid
+305,305,Credit Card,1707.82,Failed
+306,306,Net Banking,5354.59,Failed
+307,307,Credit Card,2016.23,Failed
+308,308,Debit Card,5021.79,Paid
+309,309,Debit Card,9806.5,Paid
+310,310,Credit Card,8628.48,Pending
+311,311,Cash on Delivery,4780.21,Paid
+312,312,UPI,5245.59,Paid
+313,313,UPI,5380.13,Pending
+314,314,Credit Card,2595.76,Pending
+315,315,Net Banking,9567.65,Paid
+316,316,Cash on Delivery,1755.35,Paid
+317,317,UPI,9683.95,Failed
+318,318,UPI,1919.55,Pending
+319,319,Net Banking,5665.85,Paid
+320,320,UPI,3187.14,Paid
+321,321,UPI,8669.42,Paid
+322,322,Credit Card,3124.62,Paid
+323,323,Debit Card,10109.77,Paid
+324,324,Cash on Delivery,3064.61,Paid
+325,325,UPI,1849.25,Paid
+326,326,Cash on Delivery,9551.33,Failed
+327,327,Debit Card,5786.24,Failed
+328,328,UPI,186.48,Paid
+329,329,Credit Card,18237.93,Pending
+330,330,Cash on Delivery,8971.57,Pending
+331,331,Credit Card,4129.11,Pending
+332,332,Debit Card,5152.64,Pending
+333,333,Credit Card,9303.24,Paid
+334,334,UPI,6730.09,Failed
+335,335,Debit Card,3589.66,Failed
+336,336,Cash on Delivery,14428.92,Paid
+337,337,UPI,6764.56,Paid
+338,338,UPI,8955.5,Failed
+339,339,Debit Card,9322.84,Paid
+340,340,Cash on Delivery,1886.39,Pending
+341,341,Credit Card,9524.14,Paid
+342,342,Credit Card,5778.34,Paid
+343,343,Credit Card,11731.42,Pending
+344,344,Net Banking,16099.92,Paid
+345,345,Debit Card,4909.4,Failed
+346,346,Debit Card,21278.18,Paid
+347,347,Net Banking,7995.22,Failed
+348,348,UPI,1335.1,Pending
+349,349,Credit Card,7801.23,Paid
+350,350,Credit Card,3499.64,Paid
+351,351,Debit Card,3635.89,Pending
+352,352,UPI,1276.28,Failed
+353,353,Debit Card,5592.57,Paid
+354,354,Debit Card,4060.49,Paid
+355,355,UPI,13219.12,Failed
+356,356,Credit Card,22334.17,Paid
+357,357,Net Banking,16943.24,Failed
+358,358,Debit Card,11061.13,Failed
+359,359,Credit Card,5468.64,Failed
+360,360,Net Banking,8782.52,Paid
+361,361,Debit Card,982.18,Failed
+362,362,Debit Card,173.15,Pending
+363,363,UPI,2837.2,Pending
+364,364,Net Banking,745.71,Failed
+365,365,Debit Card,9102.16,Pending
+366,366,UPI,3521.41,Paid
+367,367,Credit Card,7136.83,Failed
+368,368,Credit Card,11031.23,Pending
+369,369,Credit Card,10347.37,Pending
+370,370,Net Banking,11613.73,Failed
+371,371,Net Banking,9708.8,Paid
+372,372,UPI,7530.61,Failed
+373,373,Net Banking,4168.77,Failed
+374,374,Debit Card,14530.92,Paid
+375,375,UPI,2950.73,Pending
+376,376,Credit Card,11113.81,Paid
+377,377,Net Banking,2457.88,Pending
+378,378,Debit Card,7753.41,Pending
+379,379,Net Banking,576.52,Pending
+380,380,Net Banking,5372.48,Failed
+381,381,Debit Card,5629.37,Paid
+382,382,Credit Card,7200.92,Pending
+383,383,Net Banking,13420.49,Failed
+384,384,Net Banking,6196.87,Failed
+385,385,Cash on Delivery,2617.69,Pending
+386,386,Cash on Delivery,9186.04,Failed
+387,387,Credit Card,7516.32,Pending
+388,388,UPI,11231.35,Failed
+389,389,Net Banking,8794.96,Failed
+390,390,Cash on Delivery,5942.46,Failed
+391,391,Credit Card,8210.68,Failed
+392,392,UPI,13251.13,Paid
+393,393,Debit Card,635.12,Paid
+394,394,Credit Card,15078.12,Paid
+395,395,Debit Card,2948.24,Failed
+396,396,Net Banking,6036.14,Paid
+397,397,UPI,8210.11,Paid
+398,398,Debit Card,4704.56,Pending
+399,399,Credit Card,2261.84,Pending
+400,400,Net Banking,7267.52,Paid
+401,401,Cash on Delivery,13222.22,Pending
+402,402,Credit Card,5702.12,Paid
+403,403,Credit Card,10702.28,Paid
+404,404,Credit Card,4086.72,Paid
+405,405,Credit Card,15195.84,Pending
+406,406,UPI,4298.5,Failed
+407,407,Net Banking,7974.8,Pending
+408,408,UPI,3722.69,Failed
+409,409,UPI,7278.64,Failed
+410,410,Cash on Delivery,3991.61,Paid
+411,411,Net Banking,13649.67,Failed
+412,412,Credit Card,4799.06,Paid
+413,413,Credit Card,12538.9,Pending
+414,414,Credit Card,4528.8,Paid
+415,415,Credit Card,11577.75,Paid
+416,416,UPI,6119.77,Failed
+417,417,Net Banking,4648.2,Paid
+418,418,Credit Card,10381.51,Pending
+419,419,Credit Card,982.18,Failed
+420,420,Cash on Delivery,9662.44,Failed
+421,421,Debit Card,7628.59,Pending
+422,422,Net Banking,19096.95,Failed
+423,423,Debit Card,3910.44,Pending
+424,424,UPI,11579.02,Pending
+425,425,UPI,2208.22,Paid
+426,426,UPI,5781.28,Failed
+427,427,UPI,17059.4,Failed
+428,428,Credit Card,78.74,Failed
+429,429,Credit Card,11287.8,Paid
+430,430,Net Banking,5267.28,Pending
+431,431,Net Banking,8402.76,Failed
+432,432,Debit Card,11216.59,Failed
+433,433,Cash on Delivery,1862.23,Pending
+434,434,Credit Card,7851.6,Pending
+435,435,Credit Card,7000.08,Pending
+436,436,UPI,207.44,Failed
+437,437,Net Banking,1221.45,Paid
+438,438,Credit Card,4374.1,Pending
+439,439,Cash on Delivery,3408.34,Paid
+440,440,Credit Card,13804.14,Pending
+441,441,Credit Card,6104.82,Failed
+442,442,Cash on Delivery,6196.27,Failed
+443,443,UPI,407.15,Failed
+444,444,Net Banking,3483.41,Pending
+445,445,Debit Card,7307.75,Failed
+446,446,Net Banking,3158.02,Pending
+447,447,Credit Card,7193.4,Paid
+448,448,Debit Card,2789.36,Failed
+449,449,Net Banking,9167.95,Paid
+450,450,Debit Card,2670.2,Paid
+451,451,UPI,1929.74,Paid
+452,452,Debit Card,12981.13,Failed
+453,453,Debit Card,5049.39,Paid
+454,454,Credit Card,6600.79,Pending
+455,455,Credit Card,8558.52,Failed
+456,456,UPI,3852.93,Paid
+457,457,Credit Card,11719.32,Failed
+458,458,UPI,13827.24,Pending
+459,459,Credit Card,1509.99,Failed
+460,460,Credit Card,3479.48,Failed
+461,461,UPI,8710.02,Paid
+462,462,Debit Card,5312.19,Paid
+463,463,Cash on Delivery,12662.05,Failed
+464,464,UPI,4309.89,Failed
+465,465,Net Banking,17711.95,Paid
+466,466,UPI,10962.22,Pending
+467,467,UPI,3072.77,Pending
+468,468,UPI,8949.03,Pending
+469,469,Debit Card,766.06,Pending
+470,470,Cash on Delivery,9419.44,Paid
+471,471,Debit Card,3931.14,Pending
+472,472,Debit Card,9029.57,Paid
+473,473,UPI,6199.64,Pending
+474,474,Net Banking,7766.3,Failed
+475,475,Cash on Delivery,12357.44,Paid
+476,476,Cash on Delivery,9459.62,Paid
+477,477,UPI,195.04,Failed
+478,478,Net Banking,10127.83,Pending
+479,479,Cash on Delivery,8209.51,Paid
+480,480,Debit Card,3403.43,Paid
+481,481,Credit Card,7291.94,Failed
+482,482,Net Banking,8663.47,Paid
+483,483,UPI,3296.0,Failed
+484,484,Credit Card,6125.48,Paid
+485,485,Credit Card,14351.37,Failed
+486,486,Credit Card,3534.76,Failed
+487,487,Cash on Delivery,7340.28,Failed
+488,488,Cash on Delivery,10526.94,Failed
+489,489,Cash on Delivery,11737.48,Pending
+490,490,Net Banking,8234.85,Paid
+491,491,Debit Card,388.52,Pending
+492,492,Debit Card,12764.03,Failed
+493,493,Net Banking,6304.68,Paid
+494,494,Net Banking,7330.61,Paid
+495,495,Credit Card,11110.5,Failed
+496,496,Cash on Delivery,3032.16,Paid
+497,497,Credit Card,1165.56,Failed
+498,498,Net Banking,6603.18,Paid
+499,499,UPI,10229.42,Paid
+500,500,Debit Card,10187.75,Failed
+501,501,UPI,8906.99,Pending
+502,502,UPI,10045.35,Pending
+503,503,Debit Card,9014.06,Paid
+504,504,Debit Card,12136.25,Paid
+505,505,UPI,2567.84,Pending
+506,506,Cash on Delivery,10017.49,Pending
+507,507,Debit Card,2261.84,Paid
+508,508,UPI,1655.91,Paid
+509,509,Net Banking,17287.39,Pending
+510,510,Net Banking,1082.58,Pending
+511,511,Net Banking,6323.08,Failed
+512,512,Credit Card,8560.14,Paid
+513,513,Cash on Delivery,3378.06,Pending
+514,514,UPI,6195.09,Pending
+515,515,Debit Card,7620.7,Pending
+516,516,Net Banking,12344.64,Failed
+517,517,Credit Card,5534.34,Pending
+518,518,Debit Card,4496.72,Failed
+519,519,Cash on Delivery,10949.94,Pending
+520,520,Debit Card,8059.93,Paid
+521,521,Net Banking,14169.17,Failed
+522,522,Net Banking,2652.96,Pending
+523,523,UPI,5454.73,Failed
+524,524,UPI,10746.94,Failed
+525,525,Credit Card,20419.33,Failed
+526,526,Cash on Delivery,11234.04,Paid
+527,527,Credit Card,11882.23,Paid
+528,528,Debit Card,1829.95,Pending
+529,529,Credit Card,4204.4,Failed
+530,530,Net Banking,2571.02,Paid
+531,531,Credit Card,11526.72,Pending
+532,532,Net Banking,1984.2,Failed
+533,533,UPI,9209.0,Pending
+534,534,Net Banking,12490.84,Pending
+535,535,Cash on Delivery,9678.68,Pending
+536,536,UPI,4253.26,Paid
+537,537,Credit Card,9328.57,Failed
+538,538,UPI,2668.92,Pending
+539,539,Net Banking,7621.08,Paid
+540,540,Net Banking,1750.68,Pending
+541,541,UPI,5328.22,Pending
+542,542,Debit Card,125.27,Failed
+543,543,Net Banking,1493.32,Paid
+544,544,Net Banking,9935.18,Paid
+545,545,Debit Card,2849.04,Pending
+546,546,UPI,6816.68,Failed
+547,547,Credit Card,6659.4,Pending
+548,548,Credit Card,9510.78,Failed
+549,549,Credit Card,10692.82,Pending
+550,550,Cash on Delivery,9084.54,Paid
+551,551,Cash on Delivery,12355.9,Pending
+552,552,UPI,10694.19,Pending
+553,553,Net Banking,4422.36,Pending
+554,554,Credit Card,5341.59,Paid
+555,555,Credit Card,7857.62,Paid
+556,556,Net Banking,2056.09,Pending
+557,557,Debit Card,5313.59,Failed
+558,558,Credit Card,9002.98,Paid
+559,559,Credit Card,2330.56,Paid
+560,560,Debit Card,11687.83,Pending
+561,561,UPI,6485.43,Pending
+562,562,Net Banking,11758.02,Pending
+563,563,Cash on Delivery,6896.27,Paid
+564,564,Debit Card,17614.05,Paid
+565,565,UPI,10399.68,Paid
+566,566,Net Banking,12359.52,Pending
+567,567,Debit Card,5591.68,Paid
+568,568,Credit Card,9025.34,Pending
+569,569,Net Banking,7563.45,Pending
+570,570,Net Banking,4349.15,Failed
+571,571,Credit Card,10789.19,Failed
+572,572,Net Banking,6325.77,Pending
+573,573,Cash on Delivery,2408.48,Pending
+574,574,UPI,13419.93,Failed
+575,575,Cash on Delivery,891.45,Paid
+576,576,UPI,5480.96,Failed
+577,577,Cash on Delivery,11049.74,Failed
+578,578,Credit Card,9655.42,Pending
+579,579,Debit Card,9186.12,Paid
+580,580,Credit Card,3339.55,Pending
+581,581,Credit Card,13966.14,Pending
+582,582,Debit Card,2765.33,Paid
+583,583,Net Banking,7579.98,Pending
+584,584,Cash on Delivery,7422.26,Failed
+585,585,UPI,16599.75,Pending
+586,586,Credit Card,6195.4,Failed
+587,587,Net Banking,3707.35,Failed
+588,588,Cash on Delivery,3816.69,Paid
+589,589,UPI,4042.37,Paid
+590,590,Credit Card,10098.65,Pending
+591,591,Cash on Delivery,7788.73,Paid
+592,592,Cash on Delivery,1509.6,Pending
+593,593,Credit Card,10222.23,Pending
+594,594,Credit Card,16989.93,Paid
+595,595,Cash on Delivery,669.88,Paid
+596,596,Debit Card,14100.32,Pending
+597,597,UPI,6190.73,Pending
+598,598,Debit Card,6533.82,Failed
+599,599,UPI,5990.36,Failed
+600,600,Net Banking,7909.73,Failed
+601,601,Net Banking,3312.33,Pending
+602,602,Net Banking,18690.53,Pending
+603,603,Debit Card,11406.7,Failed
+604,604,Net Banking,2976.3,Failed
+605,605,Debit Card,11169.17,Paid
+606,606,Credit Card,2809.08,Pending
+607,607,Net Banking,11758.57,Pending
+608,608,Credit Card,6714.3,Failed
+609,609,Cash on Delivery,5934.77,Paid
+610,610,Cash on Delivery,5739.52,Pending
+611,611,Net Banking,13311.66,Pending
+612,612,Net Banking,5295.23,Failed
+613,613,Debit Card,10930.25,Failed
+614,614,Cash on Delivery,4486.79,Paid
+615,615,UPI,2252.68,Paid
+616,616,UPI,7467.4,Failed
+617,617,UPI,2410.58,Failed
+618,618,Net Banking,5851.98,Paid
+619,619,Net Banking,6872.15,Failed
+620,620,Cash on Delivery,10886.1,Failed
+621,621,UPI,3415.84,Failed
+622,622,Net Banking,6627.56,Failed
+623,623,Cash on Delivery,8138.06,Paid
+624,624,Debit Card,9416.08,Pending
+625,625,Credit Card,4092.48,Paid
+626,626,Net Banking,10997.36,Failed
+627,627,Net Banking,8891.6,Paid
+628,628,Credit Card,2401.8,Pending
+629,629,UPI,9888.49,Pending
+630,630,Net Banking,6549.95,Pending
+631,631,Net Banking,7850.92,Paid
+632,632,Debit Card,23075.31,Paid
+633,633,Cash on Delivery,1000.14,Pending
+634,634,Debit Card,7075.23,Failed
+635,635,Debit Card,9270.68,Pending
+636,636,Net Banking,12026.06,Failed
+637,637,Credit Card,13301.53,Paid
+638,638,Net Banking,3772.78,Paid
+639,639,UPI,2711.63,Paid
+640,640,Credit Card,3860.52,Pending
+641,641,Cash on Delivery,785.8,Failed
+642,642,Cash on Delivery,8054.25,Pending
+643,643,Debit Card,3325.68,Paid
+644,644,Cash on Delivery,1273.61,Pending
+645,645,Credit Card,15312.31,Failed
+646,646,Net Banking,1940.24,Paid
+647,647,Cash on Delivery,9178.49,Failed
+648,648,Net Banking,11815.12,Paid
+649,649,Cash on Delivery,9985.88,Pending
+650,650,Credit Card,429.12,Failed
+651,651,Net Banking,5252.16,Failed
+652,652,Credit Card,17968.16,Pending
+653,653,Debit Card,7138.76,Failed
+654,654,Credit Card,889.25,Pending
+655,655,Credit Card,7179.31,Paid
+656,656,Credit Card,6639.48,Failed
+657,657,UPI,7942.78,Failed
+658,658,Cash on Delivery,17637.12,Pending
+659,659,Debit Card,19620.92,Failed
+660,660,Credit Card,497.17,Pending
+661,661,Credit Card,1767.38,Paid
+662,662,UPI,3740.35,Paid
+663,663,Net Banking,9227.13,Paid
+664,664,Cash on Delivery,19792.92,Paid
+665,665,UPI,18987.57,Failed
+666,666,Cash on Delivery,11514.68,Paid
+667,667,Cash on Delivery,15572.2,Pending
+668,668,UPI,448.68,Failed
+669,669,Credit Card,7035.43,Pending
+670,670,Debit Card,10351.11,Paid
+671,671,Credit Card,2134.66,Failed
+672,672,Credit Card,4769.81,Pending
+673,673,Credit Card,9520.0,Failed
+674,674,Credit Card,1929.31,Failed
+675,675,Net Banking,33.42,Pending
+676,676,UPI,12532.54,Pending
+677,677,UPI,1660.94,Paid
+678,678,UPI,8516.9,Failed
+679,679,Cash on Delivery,15542.22,Paid
+680,680,UPI,6536.88,Pending
+681,681,Cash on Delivery,7695.65,Paid
+682,682,UPI,5896.33,Paid
+683,683,Debit Card,19989.18,Pending
+684,684,Credit Card,44.56,Paid
+685,685,UPI,5995.58,Pending
+686,686,Debit Card,456.4,Paid
+687,687,Net Banking,1890.96,Paid
+688,688,Net Banking,4816.07,Paid
+689,689,Net Banking,3708.04,Paid
+690,690,Net Banking,1959.8,Failed
+691,691,UPI,1689.51,Paid
+692,692,Net Banking,10551.19,Pending
+693,693,Debit Card,14486.13,Failed
+694,694,Net Banking,436.85,Paid
+695,695,Credit Card,10139.84,Pending
+696,696,UPI,2178.8,Paid
+697,697,Cash on Delivery,14038.12,Failed
+698,698,Cash on Delivery,18136.66,Paid
+699,699,UPI,4700.97,Pending
+700,700,Debit Card,7552.82,Pending
+701,701,Cash on Delivery,564.17,Failed
+702,702,Cash on Delivery,8545.82,Paid
+703,703,Credit Card,4125.43,Failed
+704,704,Debit Card,6476.35,Paid
+705,705,Credit Card,2574.27,Failed
+706,706,UPI,6488.62,Failed
+707,707,UPI,11518.39,Failed
+708,708,Cash on Delivery,9503.79,Paid
+709,709,Credit Card,6925.03,Pending
+710,710,UPI,11481.78,Paid
+711,711,UPI,1268.14,Pending
+712,712,Credit Card,16901.18,Paid
+713,713,UPI,5165.4,Failed
+714,714,Credit Card,11114.32,Pending
+715,715,Debit Card,12793.49,Pending
+716,716,Credit Card,5902.32,Paid
+717,717,Debit Card,3928.52,Failed
+718,718,Cash on Delivery,6099.09,Failed
+719,719,Debit Card,11734.4,Pending
+720,720,Net Banking,2923.54,Pending
+721,721,Cash on Delivery,362.06,Pending
+722,722,Credit Card,4000.86,Pending
+723,723,Credit Card,9071.81,Paid
+724,724,Debit Card,8966.93,Pending
+725,725,UPI,5256.08,Failed
+726,726,Cash on Delivery,443.52,Pending
+727,727,Credit Card,520.52,Paid
+728,728,Net Banking,3816.39,Pending
+729,729,Net Banking,3746.53,Pending
+730,730,Cash on Delivery,5903.61,Failed
+731,731,Debit Card,13597.71,Pending
+732,732,Cash on Delivery,5498.67,Paid
+733,733,Cash on Delivery,13804.85,Pending
+734,734,Net Banking,950.62,Paid
+735,735,Cash on Delivery,14259.67,Pending
+736,736,Debit Card,5385.89,Failed
+737,737,UPI,2851.86,Pending
+738,738,Credit Card,5648.4,Paid
+739,739,Cash on Delivery,3151.02,Pending
+740,740,Cash on Delivery,2908.88,Pending
+741,741,Debit Card,4997.47,Failed
+742,742,Cash on Delivery,12787.08,Pending
+743,743,Net Banking,9585.03,Paid
+744,744,UPI,2724.25,Paid
+745,745,Debit Card,11297.3,Pending
+746,746,Credit Card,11997.84,Pending
+747,747,Credit Card,6153.0,Paid
+748,748,Credit Card,1866.85,Failed
+749,749,Debit Card,9387.06,Pending
+750,750,Credit Card,1103.94,Pending
+751,751,UPI,7279.45,Paid
+752,752,Debit Card,11549.41,Failed
+753,753,UPI,6290.98,Failed
+754,754,Debit Card,2337.05,Paid
+755,755,Net Banking,13262.52,Failed
+756,756,Debit Card,1406.84,Paid
+757,757,Cash on Delivery,5837.04,Paid
+758,758,Net Banking,1984.71,Pending
+759,759,Cash on Delivery,4182.16,Paid
+760,760,Cash on Delivery,13328.12,Paid
+761,761,UPI,3728.38,Failed
+762,762,Debit Card,3975.6,Failed
+763,763,Cash on Delivery,8531.79,Failed
+764,764,UPI,7839.2,Failed
+765,765,Net Banking,13276.78,Failed
+766,766,Net Banking,12552.74,Pending
+767,767,Debit Card,13864.12,Paid
+768,768,Credit Card,12060.73,Paid
+769,769,Net Banking,4097.43,Pending
+770,770,UPI,6225.16,Pending
+771,771,Net Banking,2306.3,Paid
+772,772,UPI,9637.8,Pending
+773,773,Credit Card,3609.98,Failed
+774,774,Debit Card,6717.88,Failed
+775,775,Net Banking,4904.11,Paid
+776,776,Cash on Delivery,18695.13,Paid
+777,777,Debit Card,2521.28,Paid
+778,778,Cash on Delivery,9460.8,Paid
+779,779,Net Banking,5389.08,Pending
+780,780,Credit Card,9705.22,Pending
+781,781,UPI,10969.54,Failed
+782,782,Cash on Delivery,4472.6,Paid
+783,783,Debit Card,8934.99,Failed
+784,784,UPI,9398.57,Paid
+785,785,Net Banking,2491.41,Paid
+786,786,Net Banking,12275.51,Failed
+787,787,Debit Card,4521.42,Pending
+788,788,Debit Card,8420.52,Pending
+789,789,Net Banking,13706.1,Paid
+790,790,Cash on Delivery,7554.16,Pending
+791,791,Net Banking,221.34,Failed
+792,792,UPI,10010.66,Pending
+793,793,Debit Card,1033.6,Failed
+794,794,Net Banking,5899.51,Pending
+795,795,UPI,13500.29,Pending
+796,796,Cash on Delivery,15647.26,Paid
+797,797,UPI,2501.97,Paid
+798,798,UPI,8287.4,Paid
+799,799,Credit Card,1902.21,Paid
+800,800,Debit Card,429.12,Failed
+801,801,Net Banking,2876.43,Paid
+802,802,Credit Card,6387.0,Paid
+803,803,Credit Card,7959.38,Failed
+804,804,Debit Card,6117.4,Failed
+805,805,UPI,7207.2,Failed
+806,806,UPI,11560.2,Pending
+807,807,UPI,3429.32,Paid
+808,808,UPI,3448.19,Pending
+809,809,UPI,5560.3,Pending
+810,810,Debit Card,4574.21,Failed
+811,811,Cash on Delivery,6685.78,Pending
+812,812,Debit Card,7782.69,Failed
+813,813,Credit Card,14458.63,Paid
+814,814,Cash on Delivery,6239.21,Pending
+815,815,UPI,7439.69,Paid
+816,816,Debit Card,12089.87,Paid
+817,817,Cash on Delivery,5200.16,Pending
+818,818,Net Banking,5836.62,Failed
+819,819,UPI,6986.89,Failed
+820,820,Cash on Delivery,4418.48,Paid
+821,821,Cash on Delivery,15112.16,Pending
+822,822,Net Banking,1655.91,Pending
+823,823,Debit Card,5905.04,Failed
+824,824,Net Banking,14715.79,Paid
+825,825,UPI,173.15,Pending
+826,826,Debit Card,3794.76,Failed
+827,827,UPI,16806.11,Pending
+828,828,Cash on Delivery,4045.97,Paid
+829,829,Credit Card,5780.33,Failed
+830,830,UPI,3407.12,Paid
+831,831,Net Banking,15471.23,Paid
+832,832,Credit Card,5790.22,Paid
+833,833,Credit Card,1622.44,Pending
+834,834,Net Banking,1830.59,Paid
+835,835,Net Banking,3323.59,Paid
+836,836,Debit Card,12959.19,Paid
+837,837,Cash on Delivery,4957.58,Failed
+838,838,Cash on Delivery,537.75,Pending
+839,839,Debit Card,4557.85,Failed
+840,840,Net Banking,5901.01,Failed
+841,841,Credit Card,12874.14,Failed
+842,842,UPI,3600.46,Paid
+843,843,Credit Card,427.89,Pending
+844,844,Net Banking,5088.92,Pending
+845,845,Cash on Delivery,4528.8,Failed
+846,846,Credit Card,5691.3,Pending
+847,847,Credit Card,3019.2,Paid
+848,848,Debit Card,1091.0,Pending
+849,849,Credit Card,9084.27,Failed
+850,850,Debit Card,6162.01,Failed
+851,851,UPI,6664.58,Paid
+852,852,Net Banking,16487.87,Paid
+853,853,UPI,4787.68,Paid
+854,854,UPI,11344.02,Pending
+855,855,Credit Card,516.8,Pending
+856,856,UPI,11288.36,Pending
+857,857,Cash on Delivery,4981.95,Pending
+858,858,Debit Card,3911.76,Pending
+859,859,UPI,17449.82,Failed
+860,860,UPI,12660.02,Pending
+861,861,Net Banking,58.48,Paid
+862,862,Credit Card,295.46,Pending
+863,863,Cash on Delivery,11747.22,Pending
+864,864,Cash on Delivery,600.45,Pending
+865,865,UPI,1439.63,Pending
+866,866,Debit Card,8425.17,Pending
+867,867,UPI,5908.41,Paid
+868,868,Net Banking,4252.36,Failed
+869,869,Net Banking,2416.04,Paid
+870,870,Debit Card,13539.55,Paid
+871,871,Net Banking,2327.8,Paid
+872,872,Cash on Delivery,1961.26,Pending
+873,873,Cash on Delivery,3473.57,Failed
+874,874,Net Banking,5511.36,Failed
+875,875,Net Banking,4255.16,Paid
+876,876,UPI,1272.13,Failed
+877,877,Credit Card,1274.0,Paid
+878,878,Credit Card,22059.59,Paid
+879,879,UPI,16934.8,Paid
+880,880,Cash on Delivery,3231.23,Pending
+881,881,Credit Card,12674.34,Paid
+882,882,Cash on Delivery,10344.86,Paid
+883,883,Debit Card,3500.72,Paid
+884,884,Cash on Delivery,4719.32,Failed
+885,885,Net Banking,8368.49,Pending
+886,886,Net Banking,1886.39,Paid
+887,887,Credit Card,13249.36,Failed
+888,888,Debit Card,3536.71,Pending
+889,889,Credit Card,9937.64,Paid
+890,890,Credit Card,3318.5,Pending
+891,891,Debit Card,10029.52,Failed
+892,892,Cash on Delivery,16574.74,Pending
+893,893,UPI,4155.33,Paid
+894,894,Credit Card,8604.83,Failed
+895,895,Cash on Delivery,14739.44,Pending
+896,896,Debit Card,9569.89,Failed
+897,897,Credit Card,5464.88,Paid
+898,898,Debit Card,8324.1,Failed
+899,899,UPI,634.07,Paid
+900,900,Credit Card,3031.78,Pending
+901,901,Net Banking,2148.44,Paid
+902,902,UPI,6388.31,Failed
+903,903,Net Banking,4278.56,Pending
+904,904,Debit Card,11108.63,Paid
+905,905,Credit Card,17574.0,Pending
+906,906,UPI,13143.54,Paid
+907,907,UPI,6362.75,Failed
+908,908,Debit Card,13845.66,Pending
+909,909,Cash on Delivery,12756.28,Paid
+910,910,Net Banking,5967.43,Paid
+911,911,Net Banking,2207.88,Paid
+912,912,UPI,2851.3,Paid
+913,913,Cash on Delivery,3381.36,Failed
+914,914,Debit Card,11829.76,Paid
+915,915,Cash on Delivery,5193.75,Failed
+916,916,Credit Card,1333.52,Paid
+917,917,UPI,4341.72,Paid
+918,918,Debit Card,8126.02,Failed
+919,919,Debit Card,12099.77,Pending
+920,920,Net Banking,10029.67,Failed
+921,921,Debit Card,1637.52,Failed
+922,922,Debit Card,166.73,Failed
+923,923,Net Banking,9071.11,Pending
+924,924,Debit Card,6592.28,Pending
+925,925,UPI,2208.22,Pending
+926,926,Debit Card,4318.89,Failed
+927,927,Debit Card,4605.58,Failed
+928,928,Cash on Delivery,12529.25,Pending
+929,929,UPI,5989.42,Pending
+930,930,Cash on Delivery,10583.64,Failed
+931,931,UPI,15271.6,Paid
+932,932,Net Banking,6252.7,Paid
+933,933,Credit Card,11861.14,Pending
+934,934,Net Banking,145.47,Paid
+935,935,Credit Card,7604.01,Failed
+936,936,Net Banking,3013.57,Pending
+937,937,Credit Card,14234.4,Failed
+938,938,UPI,1460.74,Paid
+939,939,Net Banking,3653.6,Failed
+940,940,UPI,14799.78,Pending
+941,941,Cash on Delivery,11083.02,Pending
+942,942,Cash on Delivery,2401.8,Paid
+943,943,Debit Card,14605.81,Failed
+944,944,Debit Card,9454.86,Pending
+945,945,Net Banking,11754.63,Failed
+946,946,Net Banking,7522.91,Pending
+947,947,Debit Card,2948.47,Paid
+948,948,UPI,290.48,Failed
+949,949,Cash on Delivery,1938.8,Failed
+950,950,Debit Card,1106.58,Failed
+951,951,UPI,600.45,Pending
+952,952,Net Banking,7634.41,Failed
+953,953,Debit Card,2942.02,Pending
+954,954,UPI,580.96,Paid
+955,955,Net Banking,15959.2,Failed
+956,956,Credit Card,9798.02,Pending
+957,957,Credit Card,3217.29,Failed
+958,958,Debit Card,9972.79,Failed
+959,959,Cash on Delivery,2588.1,Failed
+960,960,Credit Card,13379.8,Pending
+961,961,Net Banking,13899.22,Pending
+962,962,UPI,10934.44,Pending
+963,963,UPI,1475.58,Pending
+964,964,UPI,5002.47,Paid
+965,965,Debit Card,10046.14,Failed
+966,966,UPI,11432.77,Paid
+967,967,Net Banking,4711.08,Pending
+968,968,UPI,3942.96,Pending
+969,969,Debit Card,9993.04,Failed
+970,970,UPI,6136.34,Paid
+971,971,Debit Card,442.68,Paid
+972,972,Debit Card,5110.82,Pending
+973,973,Cash on Delivery,4760.12,Failed
+974,974,Cash on Delivery,10817.2,Paid
+975,975,UPI,12132.05,Failed
+976,976,Debit Card,2606.16,Paid
+977,977,Credit Card,10326.39,Pending
+978,978,Cash on Delivery,5792.6,Paid
+979,979,Debit Card,7134.1,Paid
+980,980,UPI,5616.3,Pending
+981,981,Debit Card,3321.88,Paid
+982,982,Net Banking,7614.22,Pending
+983,983,Net Banking,12978.3,Paid
+984,984,Debit Card,3782.38,Pending
+985,985,Cash on Delivery,3500.72,Pending
+986,986,Credit Card,13707.87,Failed
+987,987,Net Banking,8357.57,Failed
+988,988,Debit Card,14125.4,Failed
+989,989,Credit Card,3815.26,Failed
+990,990,Credit Card,7601.33,Pending
+991,991,Credit Card,5659.17,Pending
+992,992,Cash on Delivery,13788.11,Paid
+993,993,Debit Card,8845.41,Pending
+994,994,UPI,563.17,Pending
+995,995,Cash on Delivery,3155.09,Failed
+996,996,Net Banking,5107.84,Failed
+997,997,Credit Card,11387.22,Pending
+998,998,Net Banking,9304.29,Paid
+999,999,Credit Card,1125.92,Failed
+1000,1000,Net Banking,3828.31,Failed
