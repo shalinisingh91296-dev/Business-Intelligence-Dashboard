@@ -24,3 +24,4 @@ The dashboard enables business stakeholders to monitor overall performance, iden
 * Which payment methods are preferred?
 * How can we improve customer retention?
 * What are the expected sales for the next quarter?
+
